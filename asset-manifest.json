@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/XBusiness/static/css/main.5f1d1be6.css",
+    "main.js": "/XBusiness/static/js/main.726093e2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/XBusiness/static/js/787.28cb0dcd.chunk.js",
+    "static/media/user.jpg": "/XBusiness/static/media/user.7107deb1b71e2d06dc44.jpg",
+    "static/media/BackG2.jpg": "/XBusiness/static/media/BackG2.f6842db01ba3b19f7519.jpg",
+    "index.html": "/XBusiness/index.html",
+    "main.5f1d1be6.css.map": "/XBusiness/static/css/main.5f1d1be6.css.map",
+    "main.726093e2.js.map": "/XBusiness/static/js/main.726093e2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/XBusiness/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1d1be6.css",
+    "static/js/main.726093e2.js"
+  ]
+}
